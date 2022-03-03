@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jake, Sidd, Buket",
   "license": "ISC",
   "dependencies": {
     "@chakra-ui/react": "^1.8.6",
